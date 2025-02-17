@@ -1,5 +1,4 @@
-## Project title
-Spike Sorting Project
+# Spike Sorting Project
 
 ## Description
 This project implement spike sorting using multiple CI techniques. The goal is to classify neuronal spikes into different neuron types based on cortical recordings. The implementation includes preprocessing, feature extraction, and classification steps.
