@@ -13,7 +13,6 @@ Python 3.9+ is required to run this project. The following Python libraries are 
 
 Use the following command to install all dependencies:
 ```
-bash
 pip install -r requirements.txt
 ```
 
@@ -22,7 +21,6 @@ The main file to execute is 'main.py'. Ensure all required dependencies are inst
 
 Run the project using the following command:
 ```
-bash
 python main.py
 ```
 
